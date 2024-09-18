@@ -1,10 +1,16 @@
 # Swiggy-Data-Analysis
-# Swiggy-Data-Analysis
+<p align="center">
+  <img src="SWIGGY.jpeg" width="350" title="hover text">
+  
+</p>
 SWIGGY-DATA-ANALYSIS-PROJECT-USING-POWER-BI
 
 Analyze Swiggy's dataset using Power BI to uncover key insights, trends, and patterns in food delivery operations.
 
 Swiggy Data Analysis: 
+
+![certificate](certificate.png)
+
 
 # Swiggy-Data-Analysis
 
