@@ -9,6 +9,16 @@ Analyze Swiggy's dataset using Power BI to uncover key insights, trends, and pat
 
 Swiggy Data Analysis: 
 
+Certificate of Completion
+
+This is to certify that Murli Sharma has successfully completed the Swiggy Data Analyst Project. This project involved analyzing extensive data from Swiggy to extract insights, optimize routes, and enhance customer experience using tools such as Python, SQL, and data visualization With Power-BI.
+
+Project Highlights:
+
+Analyzed operational and transactional data.
+Extracted insights to boost efficiency.
+Leveraged data-driven strategies to improve service quality.
+
 ![certificate](certificate.png)
 
 
@@ -31,3 +41,4 @@ Calculate the difference between actual delivery time and expected delivery time
 KPI : revenue, orders, cancelled orders, total delivery partners
 
 City wise orders - chart
+
